@@ -79,84 +79,75 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Engineering Consultant, Cloud Operations
+        time: Apr 2023 - Present
+        company: Saudi Information Technology Company - SITE
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+         - Lead consultancy projects for enterprise cloud operations.
+         - Provide technical leadership and manage complex cloud infrastructures.
+         - Ensure high levels of client satisfaction through proactive engagement.
+
+      - role: Senior Cloud Operations Engineer
+        time: Feb 2021 - May 2023
+        company: Saudi Information Technology Company - SITE
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+         - Led cloud operation projects and optimized infrastructure performance.
+         - Managed cloud solutions and maintained system reliability.
+         - Collaborated with key clients to align services with their business objectives.
+
+      - role: Cloud Operations Engineer
+        time: Apr 2020 - Feb 2021
+        company: Saudi Information Technology Company - SITE
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+         - Managed daily cloud infrastructure operations, ensuring optimal performance.
+         - Provided troubleshooting and technical support for client engagements.
+         - Focused on improving client interactions and system stability.
+
+      - role: Trainee
+        time: Jul 2017 - Aug 2017
+        company: Jeddah Municipality
+        details: |
+         - Assisted in IT infrastructure tasks during the internship.
+         - Gained hands-on experience in IT infrastructure government services
+
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
+        - name: Cisco Certified Network Associate – Routing and Switching (CCNA Routing and Switching)
           start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          end: 2022
+          organization: Cisco
+          credentialid:  435262090376BLDL
+          credentialurl: www.credly.com/badges/96495177-1d29-49c8-9e84-753c1ffcaa4c
+          credentialname: credly
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Demonstrated expertise in configuring, managing, and troubleshooting enterprise networking environments.
+            Covered core concepts such as network routing, switching protocols, and infrastructure maintenance.
+
+        - name: Cisco Certified Network Associate – Data Center (CCNA Data Center)
+          start: 2019
+          end: 2022
+          organization: Cisco
+          credentialid: 
+          credentialurl: www.youracclaim.com/badges/5d4daabc-22b4-43a7-bea7-cd961ee6e6b4
+          credentialname: credly
+          details: |
+            Validated skills in managing and troubleshooting data center infrastructure.
+            Focused on data center networking concepts, storage solutions, and Cisco data center technologies.
+
+        - name: Red Hat Certified System Administrator (RHCSA)
+          start: 2029
+          end: 2022
+          organization: Red Hat
+          credentialid: 190-023-572
+          credentialurl: www.redhat.com/rhtapps/services/certifications/badge/verify/OZLERG3IUVXJBT7OT3KHYH3ZU4AEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ=
+          credentialname: Red Hat
+          details: |
+            Recognized as proficient in managing and automating Linux-based system environments.
+            Key skills include system configuration, network service management, and basic shell scripting.
+
+   
 
 projects:
     title: Projects
